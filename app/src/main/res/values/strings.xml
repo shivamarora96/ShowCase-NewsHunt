@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Show Case - NewsHunt</string>
+    <string name="app_name">ShowCase - NewsHunt</string>
+    <string name="YOUTUBE_API_KEY_DEBUG_VERSION">AIzaSyDEtias8CYsZWwm99cCCKbNwDiMaSKPW8o</string>
 </resources>
